@@ -1,7 +1,7 @@
 # dataacad
 
 ## Cisco courses
-[data analytics essentials]('https://www.netacad.com/courses/data-analytics-essentials')
+[data analytics essentials](https://www.netacad.com/courses/data-analytics-essentials)
 
 
 
