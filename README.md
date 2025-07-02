@@ -2,9 +2,13 @@
 
 ## Cisco courses
 [Data Analytics Essentials](https://www.netacad.com/courses/data-analytics-essentials)
+
 [Python 1](https://www.netacad.com/courses/python-essentials-1)
+
 [Python 2](https://www.netacad.com/courses/python-essentials-2)
+
 [Data Science Essentials with Python](https://www.netacad.com/courses/data-science-essentials-with-python)
+
 
 
 ## Other links
