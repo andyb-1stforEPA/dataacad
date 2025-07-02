@@ -18,8 +18,8 @@
 [Open sarima_final_order_count_pdqPDQ_v2.ipynb in Colab](https://colab.research.google.com/github/andyb-1stforEPA/dataacad/blob/main/sarima_final_order_count_pdqPDQ_v2.ipynb)
 
 ### Khad Academy free Maths/Statisics course
-https://www.khanacademy.org/math/statistics-probability
-![image](https://github.com/user-attachments/assets/ac0ea41a-eb9e-421b-98c9-45f4553ad8bd)
+[Statisics and Probability](https://www.khanacademy.org/math/statistics-probability)
+
 
 
 
