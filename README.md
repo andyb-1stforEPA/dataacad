@@ -20,6 +20,9 @@
 ### Khad Academy free Maths/Statisics course
 [Statisics and Probability](https://www.khanacademy.org/math/statistics-probability)
 
+### PowerBI training link
+A hands on tutorial that includes importing Microsoft hosted data linking tables and creating a basic report from scratch
+https://learn.microsoft.com/en-gb/power-bi/create-reports/desktop-excel-stunning-report
 
 
 
